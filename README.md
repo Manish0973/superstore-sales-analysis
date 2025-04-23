@@ -1,9 +1,3 @@
-## Welcome to Superstore Sales Analysis
-
-Here’s a little animation to set the vibe:
-
-![Bluey Shopping](https://media.tenor.com/5e-GjZ6L5LQAAAAC/bluey-dog.gif)
-
 # Superstore Sales Analysis (Power BI + Pandas + MySQL)
 
 This project presents a comprehensive analysis of Superstore sales data using *Power BI, **Pandas (Python), and **MySQL*. The goal was to gain insights into sales trends, product performance, and customer behavior across different regions.
