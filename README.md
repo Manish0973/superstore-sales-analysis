@@ -37,6 +37,6 @@ This project presents a comprehensive analysis of Superstore sales data using *P
 
 ---
 
-## Suppoert
+## Support
 - For support, email manishbirhade057@gamail.com
 
