@@ -1,3 +1,9 @@
+## Welcome to Superstore Sales Analysis
+
+Here’s a little animation to set the vibe:
+
+![Superstore Animation](https://tenor.com/view/bluey-dog-grocery-shopping-push-cart-gif-16151589)
+
 # Superstore Sales Analysis (Power BI + Pandas + MySQL)
 
 This project presents a comprehensive analysis of Superstore sales data using *Power BI, **Pandas (Python), and **MySQL*. The goal was to gain insights into sales trends, product performance, and customer behavior across different regions.
