@@ -2,7 +2,7 @@
 
 Here’s a little animation to set the vibe:
 
-![Superstore Animation](https://media1.tenor.com/m/dTjEdc8sCnUAAAAd/bluey-dog.gif)
+![Bluey Shopping](https://media.tenor.com/5e-GjZ6L5LQAAAAC/bluey-dog.gif)
 
 # Superstore Sales Analysis (Power BI + Pandas + MySQL)
 
