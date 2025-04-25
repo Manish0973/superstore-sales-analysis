@@ -8,7 +8,7 @@ This project presents a comprehensive analysis of Superstore sales data using *P
 - *Power BI* – for interactive dashboards and visualizations  
 - *MySQL* – for data extraction and querying  
 - *Pandas (Python)* – for data cleaning and transformation  
-- *Excel* – for data preparation and minor formatting  
+- *Excel* – for data preparation and minor formatting, add column age and gender 
 
 ---
 
@@ -35,11 +35,5 @@ This project presents a comprehensive analysis of Superstore sales data using *P
 ## Dataset
 - *Superstore Sales Data* (CSV format) Source(https://www.kaggle.com/)
 
----
-
-## Contact
-
-- If you found this project helpful or have any questions, feel free to reach out!
-- *Email:* manishbirhade057 [at] gmail [dot] com
 
 
