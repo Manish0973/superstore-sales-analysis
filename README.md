@@ -61,12 +61,4 @@ A comprehensive data analysis project on Superstore sales using **Power BI**, **
 
 ---
 
-## 📬 Contact
-
-**Manish Sudhakar Birhade**  
-_Data Analyst | Python Enthusiast | BI Developer_  
-📧 [Your Email]  
-🔗 [LinkedIn Profile] | [Portfolio Link]
-
----
 
